@@ -37,8 +37,6 @@
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keito-isurugi&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=keito-isurugi&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
-[![github-chart](https://github-chart.vercel.app/api?user=xxxxxxxxxx)](https://github.com/xxxxxxxxxx/github-chart)
-
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
 
