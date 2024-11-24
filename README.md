@@ -19,14 +19,19 @@
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20keito-isurugi)](https://github.com/keito-isurugi)
 
-## Languages
-[![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
-[![フレームワークバッジ](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
-[![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
-[![HTMLバッジ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-[![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+## Tech Stack
+[![Goバッジ](https://img.shields.io/badge/-Go-007d9c.svg?logo=go&style=flat-square&logoColor=white)](https://go.dev/)
+[![Echoバッジ](https://img.shields.io/badge/-Echo-007d9c.svg?style=flat-square&logo=echo)](https://echo.labstack.com/)
+[![PHPバッジ](https://img.shields.io/badge/-PHP-4e528e.svg?logo=php&style=flat-square&logoColor=white)](https://www.php.net/)
+[![Laravelバッジ](https://img.shields.io/badge/-Laravel-ffffff.svg?style=flat-square&logo=laravel)](https://laravel.com/)
 [![JavaScriptバッジ](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Goバッジ](https://img.shields.io/badge/-Go-F7DF1E.svg?logo=go&style=flat-square&logoColor=black)](https://example.com)
+[![Reactバッジ](https://img.shields.io/badge/-React-23272f.svg?style=flat-square&logo=react&logoColor=58c4dc)](https://react.dev/)
+[![Next.jsバッジ](https://img.shields.io/badge/-Next.js-000000.svg?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![Vue.jsバッジ](https://img.shields.io/badge/-Vue-23272f.svg?style=flat-square&logo=vue.js)](https://vuejs.org/)
+[![Nuxt.jsバッジ](https://img.shields.io/badge/-Nuxt.js-020420.svg?style=flat-square&logo=nuxt.js)](https://nuxt.com/)
+[![PostgreSQLバッジ](https://img.shields.io/badge/-PostgreSQL-ffffff.svg?style=flat-square&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+[![MySQLバッジ](https://img.shields.io/badge/-MySQL-ffffff.svg?style=flat-square&logo=mysql)](https://www.mysql.com/)
+[![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keito-isurugi&theme=gruvbox)
