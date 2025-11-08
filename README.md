@@ -7,10 +7,10 @@
     <img height="20" src="https://img.shields.io/github/followers/keito-isurugi?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/keito8080">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/keito8080/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kotei8080/posts.svg" />
   </a>
   <a href="http://qiita.com/keito8080">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/keito8080/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kotei8080/contributions.svg" />
   </a>
   <a href="https://zenn.dev/i_keito">
     <img height="20" src="https://badgen.org/img/zenn/i_keito/articles?style=plastic" />
